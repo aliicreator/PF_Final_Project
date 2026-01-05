@@ -1,0 +1,73 @@
+# BOOKIT – Hotel Reservation Management System
+
+## Company Name
+**BOOKIT**
+
+## Project Title
+**BOOKIT – Hotel Reservation Management System**
+
+## Technology Used
+C++ (Console Based Application)
+
+## Platform
+Windows (Dev-C++)
+
+## Developed By
+Ali
+
+## Purpose
+To automate and manage hotel room reservations efficiently.
+
+---
+
+## About the Company – BOOKIT
+**BOOKIT** is a digital solutions company focused on developing smart booking and reservation systems for hotels, guest houses, and rental services. The company aims to replace manual booking processes with fast, reliable, and user-friendly software.
+
+BOOKIT provides easy-to-use systems that help hotel staff manage room availability, reservations, and cancellations with accuracy and speed. The goal of BOOKIT is to reduce human errors, save time, and improve customer service using technology.
+
+---
+
+## Project Objective
+- Provide a simple and efficient way to manage hotel room bookings.
+- Allow staff to check room availability instantly.
+- Enable quick reservation and cancellation of rooms.
+- Reduce paperwork and manual record keeping.
+- Store booking data securely using file handling.
+- Improve overall hotel operation efficiency.
+
+---
+
+## Features
+- Display current room status for all floors and rooms.
+- Reserve rooms for customers.
+- Cancel existing reservations.
+- Count available single and double rooms.
+- Show fully booked floors.
+- Automatically save reservation data to a file.
+- Load previous reservation data when the system starts.
+- User-friendly menu with colored and aligned output.
+
+---
+
+## Tools & Technologies Used
+
+| Component | Description |
+|-----------|-------------|
+| Programming Language | C++ |
+| IDE | Dev-C++ |
+| Platform | Windows |
+| Libraries Used | iostream, fstream, windows.h, iomanip |
+
+---
+
+## Benefits
+- Fast and accurate reservation handling.
+- Easy to use interface for hotel staff.
+- Minimizes booking conflicts.
+- Improves customer satisfaction.
+- Low cost and easy to maintain.
+
+---
+
+## Conclusion
+The BOOKIT Hotel Reservation Management System is a practical and efficient solution for managing hotel room bookings. It replaces traditional manual methods with an automated system that ensures accuracy, reliability, and ease of use. BOOKIT aims to make hotel management smarter and more organized through technology.
