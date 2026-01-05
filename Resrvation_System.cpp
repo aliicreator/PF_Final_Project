@@ -50,9 +50,9 @@ void displayRooms() {
 
 void menu() {
     cout << endl;
-    cout << "+-------------------------------+" << endl;
-    cout << "|          HOTEL MENU          |" << endl;
-    cout << "+-------------------------------+" << endl;
+    cout << "+------------------------------+" << endl;
+    cout << "|          BOOKIT MENU         |" << endl;
+    cout << "+------------------------------+" << endl;
     cout << "| 1. Display Rooms             |" << endl;
     cout << "| 2. Reserve Room              |" << endl;
     cout << "| 3. Cancel Reservation        |" << endl;
@@ -146,7 +146,7 @@ void fullFloors() {
 
 int main() {
     setColor(11);
-    cout << endl << "WELCOME TO HOTEL RESERVATION SYSTEM" << endl;
+    cout << endl << "WELCOME TO BOOKIT" << endl;
 
     loadFromFile();
     int choice;
